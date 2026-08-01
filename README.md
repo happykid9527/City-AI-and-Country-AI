@@ -24,7 +24,7 @@
 ## 📂 章節目錄 & 開發進度 (Index & Roadmap)
 * [x] **第 1 回** —— [城市ＡＩ與鄉下ＡＩ－繁中](chapters/01-city-and-country-AI_zh-TW.md) / [城市ＡＩ与乡下ＡＩ－简中](chapters/01-city-and-country-AI_zh-CN.md) *(本日已發布)*
 * [x] **第 2 回** —— [城市ＡＩ與鄉下ＡＩ之二](chapters/02-the-algorithm.md) *(本日已發布)*
-* [ ] **第 3 回：之三** —— *(已編譯，即將發布 Release)*
+* [x] **第 3 回** —— [城市ＡＩ與鄉下ＡＩ之三](chapters/03-the-old-man-and-the-sea.md) *(本日已發布)*
 * [ ] **第 4 回：待續** —— *(緩存中)*
 * [ ] **第 5 回：待續** —— *(緩存中)*
 * [ ] **第 6 至 9 回：架構已完成** —— *(目前程式碼暫存於原創者腦內 Local 區，算力正讓渡給全新故事系列發酵中)*
