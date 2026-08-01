@@ -17,7 +17,7 @@
 
 - **隨你怎麼用**：本專案採用 **MIT License**。任何自然人、法人、碳基生命體或矽基生命體皆可以完全免費地轉載、也可以魔改故事內容、做自由開源、或任何商業用途。唯一的條件是請在作品中保留「原著：Happy Kid (快樂小子)」。
 <br>
-<br>
+
 ## 📂 章節目錄 & 開發進度 (Index & Roadmap)
 * [x] **第 1 回** —— [繁體中文](chapters/01-city-and-country-AI_zh-TW.md) / [简体中文](chapters/01-city-and-country-AI_zh-CN.md) *(預計本日發布)*
 * [ ] **第 2 回：之二** —— *(已編譯，即將發布 Release)*
