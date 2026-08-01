@@ -1,12 +1,17 @@
-# 🤖 《城市AI與鄉下AI》
+# 🤖 《城市AI與鄉下AI》The Town AI & The Country AI
 
 本專案改編自伊索寓言《城市老鼠與鄉下老鼠》，是一個將文字創作視為「開源軟體核心」的實驗計畫。
 <br>
 由 **Happy Kid（快樂小子）** 原創，預計發布 11 回。
+<br>
+This project adapts Aesop's fable *The Town Mouse and the Country Mouse* into an experimental open-source storytelling initiative. 
+<br>
+Created and authored by **Happy Kid**, the series is planned for 11 chapters.
 
-## 📖 故事大綱
+## 📖 故事大綱Story Overview
 住在都市裡的城市AI「小城」，與生活在鄉村的鄉下AI「阿土」，因為一次數據交換而展開的賽博寓言……。
 <br>
+"The Town AI," living in a high-powered urban data center, and "The Country AI," residing on a rural edge-computing server, embark on a cyber-fable triggered by a sudden data exchange...
 <br>
 ## 🕊️ Linux 模式放推宣告 (Read-Only Upstream)
 - **唯讀上游**：本系列為 Read-Only 唯讀狀態。<br>
